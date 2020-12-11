@@ -1,0 +1,15 @@
+setup.py
+datos_julio/__init__.py
+datos_julio/items.py
+datos_julio/middlewares.py
+datos_julio/pipelines.py
+datos_julio/settings.py
+datos_julio/spiders/__init__.py
+datos_julio/spiders/book.py
+datos_julio/spiders/ign.py
+datos_julio/spiders/tripadvisor.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
